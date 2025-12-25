@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "5150",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2025-12-25T11:44:21.909522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Luniz",
+      "has_synced": false,
+      "path": "select/01_5150_Luniz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/02_5150_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Machine Gun Kelly",
+      "has_synced": true,
+      "path": "select/03_5150_Machine_Gun_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "5150 (feat. Shock-G)",
+      "artist": "Luniz",
+      "has_synced": true,
+      "path": "select/04_5150_(feat._Shock-G)_Luniz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Machine Gun Kelly",
+      "has_synced": true,
+      "path": "select/05_5150_Machine_Gun_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Winds of Plague",
+      "has_synced": false,
+      "path": "select/06_5150_Winds_of_Plague.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "“5150''",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/07_“5150''_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/08_5150_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/09_5150_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "“5150”",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/10_“5150”_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "\"5150\"",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/11_5150_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/12_5150_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Love Fame Tragedy",
+      "has_synced": true,
+      "path": "select/13_5150_Love_Fame_Tragedy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "5150 - 2023 Remaster",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/14_5150_-_2023_Remaster_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "5150 (2023 Remaster)",
+      "artist": "Van Halen",
+      "has_synced": false,
+      "path": "select/15_5150_(2023_Remaster)_Van_Halen.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Luniz featuring Shock‐G",
+      "has_synced": true,
+      "path": "select/16_5150_Luniz_featuring_Shock‐G.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "Tsunami Bomb",
+      "has_synced": true,
+      "path": "select/17_5150_Tsunami_Bomb.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "5150",
+      "artist": "The Luniz",
+      "has_synced": true,
+      "path": "select/18_5150_The_Luniz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "5150",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_5150_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
